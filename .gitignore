@@ -1,0 +1,4 @@
+my_*
+*.md
+!README.md
+*~
